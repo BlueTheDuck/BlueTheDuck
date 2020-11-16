@@ -1,0 +1,33 @@
+<svg viewBox="0 0 25 20"  width="25" height="20" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        svg {
+            background-color: transparent;
+        }
+
+        #hand {
+            animation: wave 0.7s ease 300ms 1 normal both;
+            transform-origin: 65% 100%;
+        }
+
+        @keyframes wave {
+            0% {
+                transform: rotateZ(0deg);
+            }
+            25% {
+                transform: rotateZ(30deg);
+            }
+            50% {
+                transform: rotateZ(0deg);
+            }
+            75% {
+                transform: rotateZ(30deg);
+            }
+            100% {
+                transform: rotateZ(0deg);
+            }
+        }
+    </style>
+    <text id="hand" x="0%" y="85%">
+        👋
+    </text>
+</svg>
