@@ -6,7 +6,13 @@ I spend most of my free time developing apps and tools, tinkering with computers
 
 ### Some of my interests include:
  - Rust 🦀
- - Assembly
  - Hardware/Baremetal programming
  - Hacking
- - Homebrew
+ - Math
+ - Computer sciences
+
+### Checkout some of my projects
+
+ - [Raytracing in a weekend](https://github.com/BlueTheDuck/rust-raytracing)
+ - [All the stuff I did for high school](https://github.com/BlueTheDuck?tab=repositories&q=ORT)
+ - [nds-rs](https://github.com/BlueTheDuck/nds-rs), an ambitious project building safe API abstractions and an standard lib. for an old computer, all using Rust :crab:
