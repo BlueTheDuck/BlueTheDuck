@@ -16,3 +16,4 @@ I spend most of my free time developing apps and tools, tinkering with computers
  - [Raytracing in a weekend](https://github.com/BlueTheDuck/rust-raytracing)
  - [All the stuff I did for high school](https://github.com/BlueTheDuck?tab=repositories&q=ORT)
  - [nds-rs](https://github.com/BlueTheDuck/nds-rs), an ambitious project building safe API abstractions and an standard lib. for an old computer, all using Rust :crab:
+ - [RISC-V impl](https://github.com/BlueTheDuck/riscv-sv). RISC-V implementation written in SystemVerilog for an FPGA
